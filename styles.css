@@ -25,3 +25,9 @@ h2 {
 h1:hover {
     color: salmon;
 }
+
+.p {
+    text-shadow: salmon;
+    text-align: right;
+    background: palegreen;
+}

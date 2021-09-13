@@ -1,5 +1,10 @@
 let button = document.querySelector('.button');
 let img = document.querySelector('.img');
+let footer = document.getElementById('footer');
+console.log(footer);
+footer.addEventListener('mouseover', function(event){
+    event.target.innerText = 'Thanks for viewing';
+})
 button.addEventListener('click', function(event){
 
     if (img.src = "https://placekitten.com/200/300"){
