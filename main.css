@@ -1,0 +1,13 @@
+p {
+    font: lighter;
+    font-size: medium;
+    font-family: fantasy;
+}
+#nav-list {
+    align-items:  right;
+}
+
+#footer {
+    text-align: center;
+    padding-top: 50px;
+}
