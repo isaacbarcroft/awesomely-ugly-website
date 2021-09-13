@@ -2,12 +2,26 @@ p {
     font: lighter;
     font-size: medium;
     font-family: fantasy;
+    
 }
 #nav-list {
     align-items:  right;
+    background: darkgreen;
+    color: red;
+   
 }
 
 #footer {
     text-align: center;
+    color: red;
     padding-top: 50px;
+}
+
+h2 {
+    float: right;
+    background: chartreuse;
+    
+}
+h1:hover {
+    color: salmon;
 }
